@@ -44,14 +44,14 @@ The dashboard is designed as a **decision-support tool for HR teams**, combining
 - **Overview**  
   ![Overview](images/HR_Dashboard_Overview.png)  
 
-- **Attrition by Education Field**  
-  ![Education Field Attrition](images/HR_EducationField_Attrition.png)  
-
 - **Age & Gender Distribution + Job Satisfaction**  
   ![Age & Gender Distribution](images/HR_AgeGroup_Gender_JobSatisfaction.png)  
 
-- **Attrition Rate by Age Group & Gender**  
-  ![Attrition by Age and Gender](images/HR_AgeGroup_AttritionRate.png)  
+- **Attrition Rate by Age Group (Detail Example: 25–34 Male)**  
+  ![Age Detail](images/HR_AgeGroup_25-34_Male_Detail.png)  
+
+- **Filtered Dashboard (Technical Degree Employees)**  
+  ![Technical Degree](images/HR_Dashboard_Filter_TechnicalDegree.png)  
 
 ---
 
