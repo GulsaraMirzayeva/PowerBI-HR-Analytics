@@ -62,8 +62,15 @@ The dashboard is designed as a **decision-support tool for HR teams**, combining
 
 ---
 
-## 🌍 Author  
-Prepared by **Gulsara Mirzayeva** – Aspiring Data Analyst focusing on **HR Analytics** and **Data Visualization**.  
+## 👩‍💻 About Me
+
+I'm **Gülsarə Mirzəyeva**, transitioning into the field of data analytics and statistics.  
+Through hands-on projects like this one, I aim to deepen my understanding of data interpretation, model evaluation, and visual storytelling using Python.
+
+This project was created as part of my early exploration into applied statistics and aims to reflect both my learning journey and analytical thinking.
+
+📫 [LinkedIn Profile](https://www.linkedin.com/in/gulsara-mirzayeva-298a3b359/)  
+📧 Email: mirzayevagulsare@gmail.com
 
 ---
 
