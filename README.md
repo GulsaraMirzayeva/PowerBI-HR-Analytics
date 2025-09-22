@@ -64,10 +64,10 @@ The dashboard is designed as a **decision-support tool for HR teams**, combining
 
 ## 👩‍💻 About Me
 
-I'm **Gülsarə Mirzəyeva**, transitioning into the field of data analytics and statistics.  
-Through hands-on projects like this one, I aim to deepen my understanding of data interpretation, model evaluation, and visual storytelling using Python.
+I'm **Gulsara Mirzayeva**, an aspiring **Data Scientist** with a strong focus on data analytics, statistics, and visualization.  
+Through hands-on projects like this one, I aim to deepen my skills in data interpretation, statistical modeling, and visual storytelling using Python and Power BI.  
 
-This project was created as part of my early exploration into applied statistics and aims to reflect both my learning journey and analytical thinking.
+This project is part of my continuous journey to build a professional portfolio that reflects both my analytical thinking and practical problem-solving abilities.  
 
 📫 [LinkedIn Profile](https://www.linkedin.com/in/gulsara-mirzayeva-298a3b359/)  
 📧 Email: mirzayevagulsare@gmail.com
